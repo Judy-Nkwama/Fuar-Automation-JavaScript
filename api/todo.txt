@@ -1,0 +1,5 @@
+1) When posting a new uye, if the his profession doesn't exists in the the meslek table, 
+first add that profession, get its id at last add the new user with.
+2) Use the same logic for Diller and Bilgi_alanlari
+3) Talk about "bilgi" in the heart of our otomasyon system. (Systemimizin en onemli oge bilgidir..)
+4) Sunumda tablolarin iliskileri gostermek, isimlerdirme(1-N), Kaynak gostererk niye boyle yaptigimizi soylemek
