@@ -1,4 +1,4 @@
-# Fuar Automation Projet JavaScript
+# Fuar Automation Projet / JavaScript
 ui001 is a Js version of the <a href="https://github.com/Judy-Nkwama/fuarix_cSharp" />FuarixC#Projet </a></br>
 
 - Full Rest API built with nodeJs
